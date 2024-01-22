@@ -1,0 +1,4 @@
+function alert()
+{
+    alert("Mensagem de alerta script JS");
+}
